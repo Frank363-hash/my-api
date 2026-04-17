@@ -26,4 +26,4 @@ A simple REST API built with Node.js and Express.
 
 ## Live URL
 
-http://98.80.6.122/m
+http://98.80.6.122/
